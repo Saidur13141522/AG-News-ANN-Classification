@@ -73,3 +73,7 @@ https://huggingface.co/datasets/sh0416/ag_news
 The expected outcome is a trained ANN model capable of classifying unseen news articles into one of the four AG News categories.
 
 The project will also analyze the model's strengths and limitations and identify factors that influence classification accuracy.
+
+## 7. Significance
+
+This project demonstrates how traditional NLP text representation using TF-IDF can be combined with an Artificial Neural Network for multiclass text classification. The results will help evaluate whether a relatively simple ANN can effectively learn patterns from news article text.
