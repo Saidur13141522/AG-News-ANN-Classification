@@ -1,4 +1,4 @@
-# AG News Topic Classification Using an Artificial Neural Network
+# AG News ANN Text Classification - Proposal Version
 
 ## Project Overview
 
