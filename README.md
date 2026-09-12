@@ -1,4 +1,4 @@
-# AG News Topic Classification Using an Artificial Neural Network
+# AG News Classification Project - Main Branch Version
 
 ## Project Overview
 
